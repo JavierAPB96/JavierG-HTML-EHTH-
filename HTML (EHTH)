@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Innova</title>
+    <style type="text/css">
+        body {
+            min-width: 960px;
+        }
+
+        #container {
+            padding-left: 200px;
+            padding-right: 190px;
+        }
+
+        #container .column {
+            position: relative;
+            float: left;
+        }
+
+        #center {
+            padding: 10px 20px;
+            width: 100%;
+        }
+
+        #left {
+            width: 180px;
+            padding: 0 10px;
+            right: 240px;
+            margin-left: -100%;
+        }
+
+        #right {
+            width: 130px;
+            padding: 0 10px;
+            margin-right: -100%;
+        }
+
+        #footer {
+            clear: both;
+        }
+
+        * html #left {
+            left: 150px;
+        }
+
+        #container {
+            overflow: hidden;
+        }
+
+        #container .column {
+            padding-bottom: 1001em;
+            margin-bottom: -1000em;
+        }
+
+        * html body {
+            overflow: hidden;
+        }
+
+        * html #footer-wrapper {
+            float: left;
+            position: relative;
+            width: 100%;
+            padding-bottom: 10010px;
+            margin-bottom: -10000px;
+            background: #fff;
+        }
+
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Sans-serif;
+            line-height: 1.5em;
+        }
+
+        p {
+            color: #555;
+        }
+
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        nav ul a {
+            color: darkgreen;
+            text-decoration: none;
+        }
+
+        #header,
+        #footer {
+            font-size: large;
+            padding: 0.3em;
+            background: #BCCE98;
+        }
+
+        #left {
+            background: #DBE9BC;
+        }
+
+        #right {
+            background: #F7FDEB;
+        }
+
+        #center {
+            background: #fff;
+        }
+
+        #container .column {
+            padding-top: 1em;
+        }
+    </style>
+
+    <script type="text/javascript">
+        {}
+    </script>
+</head>
+
+<body>
+
+    <header id="header">
+        <div class="dropdown">
+
+        <div class="dropdown-content">
+
+        <li><a href="https://www.freepik.es/fotos-vectores-gratis/smartphone">Gallery</a></li>
+        <li><a href="https://ssd.eff.org/en/playlist/privacy-breakdown-mobile-phoneschttps://ssd.eff.org/en/playlist/privacy-breakdown-mobile-phones">Policy</a></li>
+        <li><a href="https://s03.s3c.es/imag/_v0/770x420/8/d/e/490x_moviles-smartphones-recurso-dreamstime.jpg">Models</a></li>
+        <li><a href="https://www.techwalls.com/wp-content/uploads/2015/06/mobile-phone-evolution.jpg">History</a></li>
+        <li class="last"><a href="https://cdn.jotfor.ms/assets//img/landing/minimals/contact-form-generator/form01.png">Contact Us</a></li>
+
+</div>
+
+</div>
+        <center><p>Innova Phones</p>
+        </center>
+        <center><img src="https://us.123rf.com/450wm/findriyani/findriyani1902/findriyani190200477/116365758-vector-logo-de-smartphone.jpg?ver=6"
+                width="100"
+                height="100"></center>
+    </header>
+
+
+    <div id="container">
+
+        <main id="center" class="column">
+            <article>
+
+                <h1><img src="https://thumbs.dreamstime.com/b/ejemplo-de-presentaci%C3%B3n-smartphone-negro-paro-dise%C3%B1o-modelo-sin-marco-con-notch-simulaci%C3%B3n-aplicaci%C3%B3n-proyecto-ilustraci%C3%B3n-181023011.jpg"
+                width="520"
+                height="441">
+                </h1>
+               
+            </article>
+        </main>
+
+        <nav id="left" class="column">
+            <h3>Our Phones</h3>
+            <ul>
+                <li><a>Model 1</a></li>
+                <li><a>Model 1 Plus</a></li>
+                <li><a>Model A</a></li>
+                <li><a>Model A Ultra</a></li>
+                <li><a>Model AA</a></li>
+            </ul>
+            <h3>Prices</h3>
+            <ul>
+                <li><a>Model 1: $200</a></li>
+                <li><a>Model 1 Plus: $300</a></li>
+                <li><a>Model A: $400</a></li>
+                <li><a>Model A Ultra: $450</a></li>
+                <li><a>Model AA: $800</a></li>
+            </ul>
+
+        </nav>
+
+        <div id="right" class="column">
+            <h3>Our Rules</h3>
+            <p>
+                <li><a>Quality</a></li>
+                <li><a>Durability</a></li>
+                <li><a>Sustainability</a></li>
+            </p>
+        </div>
+
+    </div>
+
+    <div id="footer-wrapper">
+        <footer id="footer">
+            <p>Innovation since 2022</p>
+        </footer>
+    </div>
+
+</body>
+
+</html>
